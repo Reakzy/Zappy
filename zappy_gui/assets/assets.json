@@ -1,0 +1,49 @@
+{
+  "BlocMap" : {
+    "mesh" : "./assets/map/bloc.obj"
+  },
+
+  "Food" : {
+    "mesh" : "./assets/food/food.obj"
+  },
+
+  "Linemate" : {
+    "mesh" : "./assets/stones/amethyste.obj"
+  },
+
+  "Deraumère" : {
+    "mesh" : "./assets/stones/diamant.obj"
+  },
+
+  "Sibur" : {
+    "mesh" : "./assets/stones/emeraude.obj"
+  },
+
+  "Mendiane" : {
+    "mesh" : "./assets/stones/ruby.obj"
+  },
+
+  "Phiras" : {
+    "mesh" : "./assets/stones/saphir.obj"
+  },
+
+  "Thystame" : {
+    "mesh" : "./assets/stones/topaze.obj"
+  },
+
+  "Player" : {
+    "mesh" : "./assets/players/player.b3d"
+  },
+
+  "Eggs" : {
+    "mesh" : "./assets/eggs/eggs.obj"
+  },
+
+  "BlueGate" : {
+    "mesh" : "./assets/Gate/BlueGate.obj"
+  },
+
+  "OrangeGate" : {
+    "mesh" : "./assets/Gate/OrangeGate.obj"
+  }
+}

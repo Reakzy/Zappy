@@ -1,0 +1,66 @@
+{
+  "Music" : {
+    "Path" : "./assets/sounds/Music/",
+    "Sounds" : ["Music.wav"]
+  },
+
+  "Player_connect" : {
+    "Path" : "./assets/sounds/Player_connect/",
+    "Sounds" : ["connect_1.wav", "connect_2.wav", "connect_3.wav", "connect_4.wav", "connect_5.wav"]
+  },
+
+  "Player_death" : {
+    "Path" : "./assets/sounds/Player_death/",
+    "Sounds" : ["player_death_1.wav", "player_death_2.wav", "player_death_3.wav", "player_death_4.wav", "player_death_5.wav"]
+  },
+
+  "StartIncantation" : {
+    "Path" : "./assets/sounds/Incantation/",
+    "Sounds" : ["StartIncantation.wav"]
+  },
+
+  "IncantationPass" : {
+    "Path" : "./assets/sounds/Incantation/",
+    "Sounds" : ["IncantationPassed.wav"]
+  },
+
+  "IncantationFail" : {
+    "Path" : "./assets/sounds/Incantation/",
+    "Sounds" : ["IncantationFailed.wav"]
+  },
+
+  "Eject" : {
+    "Path" : "./assets/sounds/Eject/",
+    "Sounds" : ["eject.wav"]
+  },
+
+  "Throw_resource" : {
+    "Path" : "./assets/sounds/Throw_resource/",
+    "Sounds" : ["Throw_resource.wav"]
+  },
+
+  "Lay_egg" : {
+    "Path" : "./assets/sounds/Lay_egg/",
+    "Sounds" : ["egg_laying.wav"]
+  },
+
+  "Birth_of_egg" : {
+    "Path" : "./assets/sounds/Birth_of_egg/",
+    "Sounds" : ["birth_1.wav", "birth_2.wav", "birth_3.wav", "birth_4.wav"]
+  },
+
+  "Portal_Opening" : {
+    "Path" : "./assets/sounds/Portal/",
+    "Sounds" : ["portal_opening.wav"]
+  },
+
+  "Portal_Crossing" : {
+    "Path" : "./assets/sounds/Portal/",
+    "Sounds" : ["portal_crossing.wav"]
+  },
+
+  "MusicEndGame" : {
+    "Path" : "./assets/sounds/Music/",
+    "Sounds" : ["MusicEndGame.wav"]
+  },
+}

@@ -1,0 +1,14 @@
+
+{
+  "Incantation" : {
+    "Path" : "./assets/incantation/",
+    "Images" : ["portal1.bmp", "portal2.bmp", "portal3.bmp", "portal4.bmp", "portal5.bmp", "portal6.bmp", "portal7.bmp"],
+    "Speed" : 70
+  },
+
+  "Gate" : {
+    "Path" : "./assets/Gate/",
+    "Images" : ["gateBlue1.png", "gateBlue2.png", "gateBlue3.png", "gateBlue4.png", "gateBlue5.png"],
+    "Speed" : 70
+  }
+}

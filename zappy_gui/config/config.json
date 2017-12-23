@@ -1,0 +1,18 @@
+
+{
+  "Screen" : {
+    "dimension": [1600, 900]
+  },
+
+  "Background" : {
+    "path" : "./config/background.jpeg"
+  },
+
+  "StonesPanel" : {
+    "path" : "./config/stonesPanel.png"
+  },
+
+  "Credits" : {
+    "path" : "./config/credits.png"
+  }
+}
